@@ -1,1 +1,20 @@
-
+Research Links:
+1. Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+  - Read the Preface, IPython, Numpty, a little bit of Matplotlib, and Machine Learning.
+  - Focused on Naive Bayes Classification, Linear Regression, Decision Trees and Random Forests, and k-Means Clustering
+2. Information about FireBase: https://firebase.google.com/
+3. What is MongoDB: https://careerkarma.com/blog/how-to-learn-mongodb/
+4. Introduction to Machine Learning Course: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=1s
+  - Module 1: Machine Learning Fundamentals <---- Watched
+    - Provided Notes: N/A
+  - Module 2: Introduction to TensorFlow <---- Watched
+    - Provided Notes: https://colab.research.google.com/drive/1F_EWVKa8rbMXi3_fG0w7AtcscFq7Hi7B#forceEdit=true&sandboxMode=true
+  - Module 3: Core Learning Algorithms <---- Watched
+    - Provided Notes: https://colab.research.google.com/drive/15Cyy2H7nT40sGR7TBN5wBvgTd57mVKay#forceEdit=true&sandboxMode=true
+  - Module 4: Neural Networks with TensorFlow <---- Watched
+    - Provided Notes: https://colab.research.google.com/drive/1m2cg3D1x3j5vrFc-Cu0gMvc48gWyCOuG#forceEdit=true&sandboxMode=true
+  - Module 5: Deep Computer Vision - Convolutional Neural Networks <---- Watched
+    - Provided Notes: https://colab.research.google.com/drive/1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS#forceEdit=true&sandboxMode=true
+  - Module 6: Natural Language Processing with RNNs
+  - Module 7: Reinforcement Learning with Q-Learning
+  - Module 8: Conclusion and Next Steps
